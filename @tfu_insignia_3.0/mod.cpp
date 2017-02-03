@@ -1,17 +1,26 @@
+//Version 3.0
+
 /// Name of your mod
 name = "Task Force Unicorn - Insignia";
+
 /// Picture displayed from the expansions menu/ Optimal size is 2048x1024, other sizes work too
-picture = "\tfu_insignia\data\textures\tfu_insignia_default.paa";
+picture = "\tfu_insignia\data\ui\tfu.paa";
+
 /// Display next to the item added by the mod
-logoSmall = "\tfu_insignia\data\textures\tfu_insignia_default.paa";
+logoSmall = "\tfu_insignia\data\ui\tfu.paa";
+
 /// Logo displayed in the main menu
-logo = "\tfu_insignia\data\textures\tfu_insignia_default.paa";
+logo = "\tfu_insignia\data\ui\tfu.paa";
+
 /// When the mouse is over, in the main menu
-logoOver = "\tfu_insignia\data\textures\tfu_insignia_default.paa";
+logoOver = "\tfu_insignia\data\ui\tfu.paa";
+
 /// Website URL, that can accessed from the expansions menu
 action = "http://taskforceunicorn.com";
+
 /// Tool tip displayed when the mouse is left over, in the main menu
 tooltipOwned = "Task Force Unicorn beret with insignia";
+
 /// Color used for DLC stripes and backgrounds (RGBA)
 dlcColor[] =
 {
