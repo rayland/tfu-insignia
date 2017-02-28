@@ -29,35 +29,6 @@ class CfgPatches {
 
 };
 
-class CfgUnitInsignia
-{
-
-	class insignia_tfu_default
-	{
-		displayName = "TFU Insignia";
-		author = "Rainman";
-		texture = "\tfu_insignia\data\textures\tfu_insignia_default.paa";
-		textureVehicle = "";
-	};
-
-	class insignia_tfu_silver
-	{
-		displayName = "TFU Insignia (Silver)";
-		author = "Rainman";
-		texture = "\tfu_insignia\data\textures\tfu_insignia_silver.paa";
-		textureVehicle = "";
-	};
-
-	class insignia_tfu_green
-	{
-		displayName = "TFU Insignia (Green)";
-		author = "Rainman";
-		texture = "\tfu_insignia\data\textures\tfu_insignia_green.paa";
-		textureVehicle = "";
-	};
-
-};
-
 class cfgWeapons {
 	class H_Beret_02;
 	class HeadgearItem;
@@ -159,7 +130,7 @@ class cfgWeapons {
 		scope = 2;
 		scopeArsenal = 2;
 		weaponPoolAvailable = 1;
-		displayName = "Beret [TFU] (Red)";
+		displayName = "Beret [TFU] (Maroon)";
 		picture = "\tfu_insignia\data\ui\icon_h_beret_red_01_ca.paa";
 		model = "\A3\Characters_F_EPB\BLUFOR\headgear_beret02";
 		hiddenSelections[] = {"camo"};

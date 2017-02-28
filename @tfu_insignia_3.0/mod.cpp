@@ -30,7 +30,7 @@ dlcColor[] =
 	1
 };
 /// Overview text, displayed from the extension menu
-overview = "This mod adds some berets with the TFU insignia on it. It also adds the Task Force Unicorn arm patch insignia to the arsenal. Insignia and mod created by Rainman. Website: http://taskforceunicorn.com";
+overview = "This mod adds the Task Force Unicorn insignia beret to the Arsenal. The beret comes in black, tan, olive, maroon and green. Enjoy! Website: http://taskforceunicorn.com";
 /// Hide the extension name
 hideName = 0;
 /// Hide the extension menu
