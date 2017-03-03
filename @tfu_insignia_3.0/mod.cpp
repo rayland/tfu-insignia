@@ -1,7 +1,7 @@
 //Version 3.0
 
 /// Name of your mod
-name = "Task Force Unicorn - Berets";
+name = "Task Force Unicorn: Berets";
 
 /// Picture displayed from the expansions menu/ Optimal size is 2048x1024, other sizes work too
 picture = "\tfu_insignia\data\ui\tfu.paa";
@@ -19,7 +19,7 @@ logoOver = "\tfu_insignia\data\ui\tfu.paa";
 action = "http://taskforceunicorn.com";
 
 /// Tool tip displayed when the mouse is left over, in the main menu
-tooltipOwned = "Task Force Unicorn - Berets";
+tooltipOwned = "Task Force Unicorn: Berets";
 
 /// Color used for DLC stripes and backgrounds (RGBA)
 dlcColor[] =
